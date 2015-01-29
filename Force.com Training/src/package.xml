@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CandidateKeyWebService</members>
+        <members>HelloWorldPositionClass</members>
+        <members>MyOutstandingReview</members>
+        <members>OutstandingReviews</members>
+        <members>PositionAnnouncementTriggerTestClass</members>
+        <members>PositionSharingClass</members>
+        <members>PositionannouncementTriggerTestClass</members>
+        <members>ValidateAddresses</members>
+        <members>ValidateAddressesREST</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>OutstandingReviews</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>CandidateAddressValidation</members>
+        <members>InterviewerPickerTrigger</members>
+        <members>PositionAnnouncementTrigger</members>
+        <members>PositionInsertTrigger</members>
+        <members>PositionSharingTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>31.0</version>
+</Package>
