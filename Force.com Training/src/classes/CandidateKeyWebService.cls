@@ -24,6 +24,7 @@ global class CandidateKeyWebService {
 			try{
 				insert c;
 			} catch (System.DmlException e) {
+				//a new comment added..
 				//update our err flag
 				err = true;
 				System.debug('error bulk inserting new candidate record');
