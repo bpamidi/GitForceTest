@@ -1,6 +1,7 @@
 public class PositionApproval {
     // Author: Mike Dannenfeldt, Etherios
     // test github
+    //test 2
     static final Map<String,Position_Approval_Matrix__c> APPROVAL_MAP_CONST;
     
     static {
